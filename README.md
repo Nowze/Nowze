@@ -1,10 +1,12 @@
 <h1 align="center">Nowze's</h1>
-<h3 align="center">Hi, I'm a 1336 St34ler Owner, hope you will enjoy my work ! Here's a link to my stealer [1336 St34ler](https://t.me/St34ler). If you want to make me some feedback juste contact me on discord by [my profile](https://t.me/+kDVO_HcvvIo4OTVk)</h3>
+<h3 align="center">Hi, I'm a 1336 St34ler Owner, hope you will enjoy my work ! Here's a link to my stealer 1336 St34ler (https://t.me/St34ler). If you want to make me some feedback juste contact me on discord by my profile (https://t.me/+kDVO_HcvvIo4OTVk)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ee00ff&style=flat-square" alt="nowze" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ee00ff&style=plastic" alt="nowze" /> <img src="https://img.shields.io/github/followers/Nowze?logo=github&style=social" /> <img src="https://img.shields.io/github/stars/Nowze?style=social" /> <img src="https://img.shields.io/twitter/follow/NowzeTea?style=social" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/nowzetea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nowzetea" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCVbQbIiC3fspnehroJ8JMKQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1336 discord" height="30" width="40" /></a>
 <a href="https://discord.gg/cKGUpZCAKP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cKGUpZCAKP" height="30" width="40" /></a>
 </p>
