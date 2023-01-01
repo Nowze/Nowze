@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nowze</h1>
+<h1 align="center">Nowze's</h1>
 <h3 align="center">Hi, I'm a 1336 St34ler Owner, hope you will enjoy my work ! Here's a link to my stealer 1336 St34ler. If you want to make me some feedback juste contact me on discord by my profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ff0066&style=plastic" alt="nowze" /> </p>
