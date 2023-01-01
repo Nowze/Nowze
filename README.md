@@ -1,4 +1,4 @@
-<h1 align="center">Nowze's</h1>
+<h1 align="center">Hi 👋, I'm Nowze</h1>
 <h3 align="center">Hi, I'm a 1336 St34ler Owner, hope you will enjoy my work ! Here's a link to my stealer 1336 St34ler (https://t.me/St34ler). If you want to make me some feedback juste contact me on discord by my profile (https://t.me/+kDVO_HcvvIo4OTVk)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ee00ff&style=plastic" alt="nowze" /> <img src="https://img.shields.io/github/followers/Nowze?logo=github&style=social" /> <img src="https://img.shields.io/github/stars/Nowze?style=social" /> <img src="https://img.shields.io/twitter/follow/NowzeTea?style=social" /> </p>
