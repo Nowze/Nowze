@@ -2,6 +2,10 @@
 <h3 align="center">Hi, I'm a 1336 St34ler Owner, hope you will enjoy my work ! Here's a link to my stealer 1336 St34ler. If you want to make me some feedback juste contact me on discord by my profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ee00ff&style=plastic" alt="nowze" /> </p>
+<a href="https://github.com/Nowze/REPO_NAME" aria-label="Star Nowze on GitHub">
+  <img src="https://img.shields.io/github/stars/Nowze/REPO_NAME.svg?style=social&label=Star" alt="Star Nowze on GitHub">
+</a>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nowze" alt="nowze" /></a> </p>
 
