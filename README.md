@@ -1,11 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Nowze</h1>
 <h3 align="center">Hi, I'm a 1336 St34ler Owner, hope you will enjoy my work ! Here's a link to my stealer 1336 St34ler. If you want to make me some feedback juste contact me on discord by my profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ee00ff&style=plastic" alt="nowze" /> </p>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Nowze" data-show-count="true" aria-label="Follow @Nowze on GitHub">Follow @Nowze</a>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Nowze/1336-V3-Buildbot" data-icon="octicon-star" data-show-count="true" aria-label="Star Nowze/1336-V3-Buildbot on GitHub">Star</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nowze" alt="nowze" /></a> </p>
 
