@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ee00ff&style=plastic" alt="nowze" /> </p>
 <a href="https://github.com/Nowze/REPO_NAME" aria-label="Star Nowze on GitHub">
-  <img src="https://img.shields.io/github/stars/Nowze/REPO_NAME.svg?style=social&label=Star" alt="Star Nowze on GitHub">
+  <img src="https://img.shields.io/github/stars/Nowze/" alt="Star Nowze on GitHub">
 </a>
 
 
