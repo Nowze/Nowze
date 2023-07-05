@@ -1,3 +1,5 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <h1 align="center">Hi 👋, I'm Nowze</h1>
 <h3 align="center">Hi, I'm a 1336 St34ler Owner, hope you will enjoy my work ! Here's a link to my stealer 1336 St34ler. If you want to make me some feedback juste contact me on discord by my profile</h3>
 
