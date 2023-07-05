@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowze&label=Profile%20views&color=ee00ff&style=plastic" alt="nowze" /> </p>
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/buttons/github-buttons" data-icon="octicon-star" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Star</a>
-
+<a class="github-button" href="https://github.com/Nowze" data-show-count="true" aria-label="Follow @Nowze on GitHub">Follow @Nowze</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nowze" alt="nowze" /></a> </p>
 
